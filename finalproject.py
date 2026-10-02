@@ -10,9 +10,9 @@ ids = []     # 記錄該人臉 id 的串列
 
 # 記錄到達狀態
 attendance = {
-    '1': {"name": "Ling Chi Ni", "status": "未到", "time": None},
-    '2': {"name": "Kuo Miao Hsuan", "status": "未到", "time": None},
-    '3': {"name": "Tiang Shin", "status": "未到", "time": None},
+    '1': {"name": "Person 1", "status": "未到", "time": None},
+    '2': {"name": "Person 2", "status": "未到", "time": None},
+    '3': {"name": "Person 3", "status": "未到", "time": None},
 }
 
 # 資料訓練部分
